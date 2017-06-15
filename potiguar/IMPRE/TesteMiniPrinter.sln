@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteMiniPrinter", "TesteMiniPrinter.csproj", "{AB6094BB-B9CA-4FB9-BEED-A4C0F4D59287}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SolutionUniqueID = {F92238BB-79CA-45B8-8308-706965866A73}
+		SccProjectUniqueName1 = TesteMiniPrinter.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{AB6094BB-B9CA-4FB9-BEED-A4C0F4D59287}.Debug.ActiveCfg = Debug|.NET
+		{AB6094BB-B9CA-4FB9-BEED-A4C0F4D59287}.Debug.Build.0 = Debug|.NET
+		{AB6094BB-B9CA-4FB9-BEED-A4C0F4D59287}.Release.ActiveCfg = Release|.NET
+		{AB6094BB-B9CA-4FB9-BEED-A4C0F4D59287}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

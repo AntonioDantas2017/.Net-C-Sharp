@@ -1,0 +1,16 @@
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\potiguar.exe
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\potiguar.pdb
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\potiguar.principal.resources
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\potiguar.Properties.Resources.resources
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\potiguar.exe
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\potiguar.pdb
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\potiguar.accdb
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\potiguar.exe.config
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\obj\x86\Debug\potiguar.frmProdutos.resources
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\Bematech.dll
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\Bematech.MiniImpressoras.dll
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\Bematech.xml
+C:\Users\ESCRITORIO\Documents\Visual Studio 2010\Projects\potiguar\potiguar\bin\Debug\Bematech.MiniImpressoras.xml

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CFe>
+  <infCFe versaoDadosEnt="0.06">
+    <ide>
+      <CNPJ>11782765000147</CNPJ>
+      <signAC>W4LnlU/GKkBMWRkUl/R9MNZsQikdhAtCyKyn+6Cz+7gJNVXdKEDkN+L04qBljwzORT8pgqBESlKkxcPrN7tlpOoDGHuc70MnwM+4YbUXqLREDVpTP11dBzu+3u/5GUtOd6WyvifTKVUM5H9z0IsUdYHsa4nSinUsary0jeSUU4YGezFKaS0nSN6f40UXzfDIi9aBM5nypj47I8fWVh5UC4b0WGTCD+bXwMhawsFE2SrcQx4dj4nrJOznS90gM3JJvyHDQbGxITTmSRLRoI22lTFGJqFOcoJGF3DI4N4Gvz0OcM2mTicxXWq9F24HllrCAdKrrbMppCKy68OuIM/Wyg==</signAC>
+      <numeroCaixa>123</numeroCaixa>
+    </ide>
+    <emit>
+      <CNPJ>11782765000147</CNPJ>
+      <IE>688299439116</IE>
+      <indRatISSQN>N</indRatISSQN>
+    </emit>
+    <dest>
+    </dest>
+    <det nItem="01">
+      <prod>
+        <cProd>1</cProd>
+        <xProd>REFEIÃ‡ÃƒO SELFSERVICE</xProd>
+        <NCM>21069005</NCM>
+        <CFOP>5102</CFOP>
+        <uCom>KG</uCom>
+        <qCom>1.0000</qCom>
+        <vUnCom>0.01</vUnCom>
+        <indRegra>A</indRegra>
+      </prod>
+      <imposto>
+        <ICMS>
+          <ICMSSN102>
+            <Orig>0</Orig>
+            <CSOSN>500</CSOSN>
+          </ICMSSN102>
+        </ICMS>
+        <PIS>
+          <PISSN>
+            <CST>49</CST>
+          </PISSN>
+        </PIS>
+        <COFINS>
+          <COFINSSN>
+            <CST>49</CST>
+          </COFINSSN>
+        </COFINS>
+      </imposto>
+      <infAdProd>Consumido no local</infAdProd>
+    </det>
+    <total>
+    </total>
+    <pgto>
+      <MP>
+        <cMP>01</cMP>
+        <vMP>0.01</vMP>
+      </MP>
+    </pgto>
+  </infCFe>
+</CFe>
